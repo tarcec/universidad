@@ -1,0 +1,10 @@
+1.- Construya una función en lenguaje C que ordene en modo descendente las
+hojas de un árbol binario 
+
+2.- Un OD Tree es un árbol en el cual cada nodo posee hasta 8 descendientes. 
+Defina las estructuras en lenguaje C que permiten representar un OD Tree 
+e implemente una función que determine el parentesco entre dos nodos: 
+antepasado-descendiente, hermanos, primos. 
+
+Reglas:- Deben crear un código en lenguaje C que cumpla con la los requisitos. 
+(debe pasar en modo exitoso la compilacion y funcionar).
