@@ -1,0 +1,22 @@
+Construir funciones para :
+
+-Gen Laberinto(m,n): matriz dinamica dimension n*m
+                               valores pertenecientes a  {0,1}
+0:obstaculo
+1:no obstaculo
+
+L[1,1]=L[m,n]=1;
+
+-Print Laberinto
+-Read Laberinto
+-Recorrer Laberinto
+
+Ejecucion:
+si el laberinto es de 10x15
+
+$>tarea1.exe 10 15 -G /crea laberinto
+$>tarea1.exe 10 15 -G >lab.txt/formato
+$>tarea1.exe  -R < lab.txt /Lee un laberinto que esat en txt
+$>tarea1.exe 10 15 -E /genera y recorre un laberinto
+
+Tiene que tener especificacion de cada cosa que hace el programa
