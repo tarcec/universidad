@@ -1,0 +1,9 @@
+1).- Crear archivo de entrada llamado aqcuapia.in (SE DEBE RESPETAR EL
+FORMATO DE ENTRADA).
+
+2).- Compilar : gcc rio.c -o rio
+
+3).- Ejecutar : ./rio
+
+4).- Ver el archivo de salida con: "nano aqcuapia.out" (o bien "vi
+aqcuapia.out").
