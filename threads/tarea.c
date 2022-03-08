@@ -331,13 +331,13 @@ int main (int argc, char **argv)
 
 				case '?':
 						if (isprint (optopt))
-						{
-							   		fprintf (stderr, "Argumento no valido `-%c'.\n", optopt);
-						}
+							{
+							fprintf (stderr, "Argumento no valido `-%c'.\n", optopt);
+							}
 						else
-						{
-									fprintf (stderr, "Caracter no valido `\\x%x'.\n", optopt);
-						}
+							{
+							fprintf (stderr, "Caracter no valido `\\x%x'.\n", optopt);
+							}
 						return 1;
 				default:
 						abort ();
